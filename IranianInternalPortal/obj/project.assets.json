@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IranianInternalPortal\\IranianInternalPortal\\IranianInternalPortal.csproj",
+      "projectUniqueName": "C:\\Users\\m.hashemi\\Desktop\\aaa\\IranianInternalPortal\\IranianInternalPortal.csproj",
       "projectName": "IranianInternalPortal",
-      "projectPath": "D:\\IranianInternalPortal\\IranianInternalPortal\\IranianInternalPortal.csproj",
+      "projectPath": "C:\\Users\\m.hashemi\\Desktop\\aaa\\IranianInternalPortal\\IranianInternalPortal.csproj",
       "packagesPath": "C:\\Users\\m.hashemi\\.nuget\\packages\\",
-      "outputPath": "D:\\IranianInternalPortal\\IranianInternalPortal\\obj\\",
+      "outputPath": "C:\\Users\\m.hashemi\\Desktop\\aaa\\IranianInternalPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
