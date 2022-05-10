@@ -8,7 +8,7 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\m.hashemi\\.nuget\\packages\\": {},
+    "C:\\Users\\smhm\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "D:\\IranianInternalPortal\\IranianInternalPortal\\IranianInternalPortal.csproj",
       "projectName": "IranianInternalPortal",
       "projectPath": "D:\\IranianInternalPortal\\IranianInternalPortal\\IranianInternalPortal.csproj",
-      "packagesPath": "C:\\Users\\m.hashemi\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\smhm\\.nuget\\packages\\",
       "outputPath": "D:\\IranianInternalPortal\\IranianInternalPortal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\m.hashemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\smhm\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
